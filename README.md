@@ -22,3 +22,4 @@ Travailler sur votre branche: `git checkout feature/xxxx`
 # Contributeurs
 - Bernard Adanlessossi
 - Madaliou Bouyo
+- Marc Komi Atsou
