@@ -23,3 +23,4 @@ Travailler sur votre branche: `git checkout feature/xxxx`
 - Bernard Adanlessossi
 - Madaliou Bouyo
 - Marc Komi Atsou
+- Yazid Boukari
