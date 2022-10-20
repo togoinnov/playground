@@ -30,3 +30,5 @@ Travailler sur votre branche: `git checkout feature/xxxx`
 - Madaliou Bouyo
 - Marc Komi Atsou
 - Oumandé Mouhamed Kamilou MOUSSA
+- Yazid Boukari
+- Elom Klevor
