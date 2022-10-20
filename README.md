@@ -29,7 +29,9 @@ Travailler sur votre branche: `git checkout feature/xxxx`
 - Bernard Adanlessossi
 - Madaliou Bouyo
 - Marc Komi Atsou
+- Joseph EGBENDEWE
 - Koulintéa Assoula
 - Oumandé Mouhamed Kamilou MOUSSA
 - Yazid Boukari
 - Elom Klevor
+
